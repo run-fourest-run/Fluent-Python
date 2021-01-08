@@ -19,17 +19,21 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7abb59c-1a92-4e31-8bed-810b04a8448a" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/Chapter1/commonalatiesinstagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/commonalitiesdict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/determiningfrequentlyoccuringitems.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/namingaslice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/removingduplicatesfromsequences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter1/sortingdictionaries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonCookbook.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonCookbook.iml" afterDir="false" />
+    <list default="true" id="e7abb59c-1a92-4e31-8bed-810b04a8448a" name="Default Changelist" comment="newest commit">
+      <change afterPath="$PROJECT_DIR$/Chapter1/sorting_object_without_native_comparison_support.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter1/calcsondicts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/calcsondicts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter1/calcsondicts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/calcs_on_dicts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter1/collection.deques.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/collectsions_deques.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter1/commonalatiesinstagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/commonalaties_with_insta_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter1/commonalitiesdict.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/commonality_in_dicts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter1/defaultdict.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/default_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter1/determiningfrequentlyoccuringitems.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/determining_frequent_occurences.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter1/findinglargest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/finding_largest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter1/namingaslice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/slice_naming.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter1/priorityqueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/priority_queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter1/removingduplicatesfromsequences.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/removing_duplicates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter1/sortingdictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/sorting_dictionaries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter1/unpackingunknownlen.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/unpacking_unknown_len.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +69,8 @@
       <recent name="C:\Users\afournier\PycharmProjects\PythonCookbook\Chapter1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sortingdictionaries">
-    <configuration name="commonalatiesinstagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.sorting_dictionaries">
+    <configuration name="commonalaties_with_insta_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCookbook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter1/commonalatiesinstagram.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\afournier\PycharmProjects\PythonCookbook\Chapter1\commonalaties_with_insta_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="determiningfrequentlyoccuringitems" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="determining_frequent_occurences" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCookbook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter1/determiningfrequentlyoccuringitems.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\afournier\PycharmProjects\PythonCookbook\Chapter1\determining_frequent_occurences.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="namingaslice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="removing_duplicates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCookbook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter1/namingaslice.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\afournier\PycharmProjects\PythonCookbook\Chapter1\removing_duplicates.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="removingduplicatesfromsequences" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="slice_naming" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCookbook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,7 +145,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter1/removingduplicatesfromsequences.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\afournier\PycharmProjects\PythonCookbook\Chapter1\slice_naming.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sortingdictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sorting_dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonCookbook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,7 +166,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter1/sortingdictionaries.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\afournier\PycharmProjects\PythonCookbook\Chapter1\sorting_dictionaries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sortingdictionaries" />
-        <item itemvalue="Python.determiningfrequentlyoccuringitems" />
-        <item itemvalue="Python.namingaslice" />
-        <item itemvalue="Python.removingduplicatesfromsequences" />
-        <item itemvalue="Python.commonalatiesinstagram" />
+        <item itemvalue="Python.sorting_dictionaries" />
+        <item itemvalue="Python.determining_frequent_occurences" />
+        <item itemvalue="Python.slice_naming" />
+        <item itemvalue="Python.removing_duplicates" />
+        <item itemvalue="Python.commonalaties_with_insta_data" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609266015039</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="newest commit">
+      <created>1610131039900</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610131039900</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,7 +226,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="newest commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="newest commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2589" y="-50" key="#calcsondicts" timestamp="1609266165786">
@@ -286,9 +298,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1259" height="204" key="GridCell.Tab.1.right/0.0.1280.680/-1920.-165.1920.1040/1920.-165.1920.1040@0.0.1280.680" timestamp="1610069690208" />
-    <state x="2472" y="88" key="Vcs.Push.Dialog.v2" timestamp="1609266027250">
-      <screen x="1920" y="-165" width="1920" height="1040" />
+    <state x="368" y="147" key="Vcs.Push.Dialog.v2" timestamp="1610131904361">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="368" y="147" key="Vcs.Push.Dialog.v2/0.0.1280.680/-1920.-165.1920.1040/1920.-165.1920.1040@0.0.1280.680" timestamp="1610131904361" />
     <state x="2472" y="88" key="Vcs.Push.Dialog.v2/0.0.1280.680/-1920.-165.1920.1040/1920.-165.1920.1040@1920.-165.1920.1040" timestamp="1609266027250" />
     <state x="2681" y="261" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1609266003028">
       <screen x="1920" y="-165" width="1920" height="1040" />
